@@ -1,0 +1,2 @@
+3 83 32 83 32 108 3 108 Liscence-Plate 0
+216 130 252 130 252 151 216 151 Liscence-Plate 0

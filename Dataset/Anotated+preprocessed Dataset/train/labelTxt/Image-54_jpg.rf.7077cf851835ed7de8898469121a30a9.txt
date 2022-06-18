@@ -1,0 +1,4 @@
+51 101 115 101 115 129 51 129 Liscence-Plate 0
+150 123 195 123 195 149 150 149 Liscence-Plate 0
+84 7 134 7 134 36 84 36 Liscence-Plate 0
+153 30 210 30 210 62 153 62 Liscence-Plate 0
