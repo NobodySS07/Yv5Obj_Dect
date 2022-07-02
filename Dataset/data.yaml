@@ -1,8 +1,6 @@
-path: ../datasets/roboflow
-
-train: train/images
-val: valid/images
-test: test/images
+train: ../Dataset/train/images
+val: ../Dataset/valid/images
+test: ../Dataset/test/images
 
 nc: 1
 names: ['Liscence Plate']
