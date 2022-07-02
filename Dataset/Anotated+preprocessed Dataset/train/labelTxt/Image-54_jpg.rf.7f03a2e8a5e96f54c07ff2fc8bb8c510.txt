@@ -1,4 +1,0 @@
-141 101 205 101 205 129 141 129 Liscence-Plate 0
-60 123 105 123 105 149 60 149 Liscence-Plate 0
-121 7 171 7 171 36 121 36 Liscence-Plate 0
-46 30 103 30 103 62 46 62 Liscence-Plate 0

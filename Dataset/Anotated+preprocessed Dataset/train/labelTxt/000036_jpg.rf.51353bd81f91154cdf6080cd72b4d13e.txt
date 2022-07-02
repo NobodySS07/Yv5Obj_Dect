@@ -1,2 +1,0 @@
-224 85 253 85 253 109 224 109 Liscence-Plate 0
-4 129 39 129 39 149 4 149 Liscence-Plate 0
